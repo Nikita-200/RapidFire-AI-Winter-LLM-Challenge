@@ -1,7 +1,8 @@
 # RapidFire-AI-Winter-LLM-Challenge
 ---
 ## RAG CHALLENGE 
-We used 2 different datasets for this Challenge - "DOCUGAMI Financial Dataset" and "RAGBench Dataset (CovidQA)"
+We used 2 different datasets for this Challenge - "DOCUGAMI Financial Dataset" and "RAGBench Dataset (CovidQA)".
+
 Below we discuss the comparison of performances between the  datasets, and the possible ways/causes/reasons for different resulting metrics for each of the datasets. 
 # CHUNKING COMPARISON: DOCUGAMI Financial Dataset vs RAGBench
 
